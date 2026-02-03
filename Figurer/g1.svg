@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="156.99413mm"
+   height="120.59166mm"
+   viewBox="0 0 156.99413 120.59166"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-28.313104,-54.73364)">
+    <g
+       id="g2">
+      <path
+         style="fill:#666666;stroke:none;stroke-width:1.32292;stroke-opacity:1"
+         id="path1"
+         d="M 126.55279,129.11804 74.444414,115.87845 22.33604,102.63885 59.856049,64.131476 97.376059,25.624097 111.96442,77.371067 Z"
+         transform="rotate(165.72343,82.088293,85.793662)" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87778px;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke:#ffffff;stroke-width:1.32292;stroke-opacity:1"
+         x="58.539978"
+         y="87.218811"
+         id="text1"><tspan
+           id="tspan1"
+           style="font-size:9.87778px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.32292"
+           x="58.539978"
+           y="87.218811">Behållare</tspan></text>
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.69317;stroke-opacity:1"
+         id="rect1"
+         width="15.212454"
+         height="24.107899"
+         x="74.47065"
+         y="134.12398" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;writing-mode:lr-tb;direction:ltr;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-opacity:1"
+         x="136.06792"
+         y="150.11636"
+         id="text2"><tspan
+           id="tspan2"
+           style="fill:#666666;stroke-width:1.32292"
+           x="136.06792"
+           y="150.11636">Elektronik</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.87777px;writing-mode:lr-tb;direction:ltr;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-opacity:1"
+         x="136.30215"
+         y="170.85237"
+         id="text2-1"><tspan
+           id="tspan2-2"
+           style="fill:#666666;stroke-width:1.32292"
+           x="136.30215"
+           y="170.85237">Pip</tspan></text>
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-opacity:1"
+         id="path2"
+         d="m 43.609407,222.32245 -3.898682,-2.30955 -3.898682,-2.30956 3.949475,-2.22158 3.949475,-2.22158 -0.05079,4.53114 z"
+         transform="translate(56.771526,-71.613392)" />
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-opacity:1"
+         id="path2-3"
+         d="m 43.609407,222.32245 -3.898682,-2.30955 -3.898682,-2.30956 3.949475,-2.22158 3.949475,-2.22158 -0.05079,4.53114 z"
+         transform="matrix(0,-2.1833597,1.6786608,0,-283.52087,253.51586)" />
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.87302;stroke-opacity:1"
+         id="rect2"
+         width="31.424425"
+         height="2.0061028"
+         x="100.43172"
+         y="145.17488" />
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-opacity:1"
+         id="path2-6"
+         d="m 43.609407,222.32245 -3.898682,-2.30955 -3.898682,-2.30956 3.949475,-2.22158 3.949475,-2.22158 -0.05079,4.53114 z"
+         transform="translate(56.771526,-50.667073)" />
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.87302;stroke-opacity:1"
+         id="rect2-0"
+         width="31.424425"
+         height="2.0061028"
+         x="100.43172"
+         y="166.1212" />
+    </g>
+  </g>
+</svg>
