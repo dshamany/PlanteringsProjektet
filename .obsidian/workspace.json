@@ -13,15 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-02.md",
+                "file": "Komponenter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "Komponenter"
+            }
+          },
+          {
+            "id": "9eb29fc678095899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Komponenter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Komponenter"
+            }
+          },
+          {
+            "id": "9ced41bd4be8c746",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,10 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2ce9cabec11d1a3",
+  "active": "e66a086098c08f38",
   "lastOpenFiles": [
     "Komponenter.md",
+    "conflict-files-obsidian-git.md",
+    "Brainstorming/2026-02-02.md",
     "2026-02-02.md",
+    "Brainstorming",
     "Figurer/g1.svg",
     "Figurer",
     "g2.svg",
