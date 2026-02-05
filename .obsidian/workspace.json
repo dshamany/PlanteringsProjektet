@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of 2026-02-02"
             }
+          },
+          {
+            "id": "e66a086098c08f38",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +190,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d2ce9cabec11d1a3",
   "lastOpenFiles": [
-    "Figurer/g1.svg",
+    "Komponenter.md",
     "2026-02-02.md",
+    "Figurer/g1.svg",
     "Figurer",
     "g2.svg",
     "Welcome.md"
