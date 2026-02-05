@@ -15,13 +15,30 @@
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Diff: workspace.json  (Index)"
+            }
+          },
+          {
+            "id": "2d28b2bcfd479190",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Komponenter.md",
+                "bFile": "Komponenter.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Komponenter  (Index)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2ce9cabec11d1a3",
+  "active": "2d28b2bcfd479190",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Komponenter.md",
     "Brainstorming/2026-02-02.md",
     "Brainstorming",
     "Figurer/g1.svg",
