@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-02.md",
+                "file": "Brainstorming/2026-02-02.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2ce9cabec11d1a3",
+  "active": "256e93d1a1b533c1",
   "lastOpenFiles": [
+    "Brainstorming",
     "Figurer/g1.svg",
-    "2026-02-02.md",
+    "Brainstorming/2026-02-02.md",
     "Figurer",
     "g2.svg",
     "Welcome.md"
